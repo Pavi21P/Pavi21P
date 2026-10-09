@@ -1,4 +1,6 @@
-# About me
+# Hi, I'm Pavi <img src="https://raw.githubusercontent.com/czhu1217/czhu1217/main/wave.gif" width="30" alt="Waving hand" />
+
+## About me
 
 - Student at the University of Houston-Downtown (UHD).
 - I like to make fun apps and apps that I think are beneficial to society.
