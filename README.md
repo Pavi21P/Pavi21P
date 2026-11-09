@@ -19,7 +19,7 @@
 | :---: | :---: | :---: |
 | [RefIt](https://github.com/Pavi21P/RefIt) | [Quiz Companion](https://github.com/Pavi21P/study-companion) | [Coin Catchers](https://github.com/Pavi21P/coin-catchers) |
 | [LumaCaption](https://github.com/Pavi21P/lumacaption) | | |
-| [UHD Student Extension](https://github.com/Pavi21P/uhd-student-extension) *(in development)* | | |
+| [UHD Student Extension](https://github.com/Pavi21P/uhd-student-extension) | | |
 | [Personal Homepage (CS4300)](https://github.com/Pavi21P/personal-homepage) | | |
 | [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | | |
 | [UHD ACM Discord Bot](https://github.com/Pavi21P/UHD-ACM-Discord-Bot) | | |
