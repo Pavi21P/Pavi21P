@@ -17,9 +17,8 @@
 
 | Personal | Hackathons | Games |
 | :---: | :---: | :---: |
-| [RefIt](https://github.com/Pavi21P/RefIt) | [Quiz Companion](https://github.com/Pavi21P/study-companion) | [Coin Catchers](https://github.com/Pavi21P/coin-catchers) |
-| [LumaCaption](https://github.com/Pavi21P/lumacaption) | | |
-| [UHD Student Extension](https://github.com/Pavi21P/uhd-student-extension) | | |
+| [LumaCaption](https://github.com/Pavi21P/lumacaption) | [Quiz Companion](https://github.com/Pavi21P/study-companion) | [Coin Catchers](https://github.com/Pavi21P/coin-catchers) |
+| [UHD Student Extension](https://github.com/Pavi21P/uhd-student-extension) | [RefIt](https://github.com/Pavi21P/RefIt) | |
 | [Personal Homepage (CS4300)](https://github.com/Pavi21P/personal-homepage) | | |
 | [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | | |
 | [UHD ACM Discord Bot](https://github.com/Pavi21P/UHD-ACM-Discord-Bot) | | |
