@@ -11,11 +11,17 @@
 
 ![Git, Unity, Cloudflare, and Supabase](https://skillicons.dev/icons?i=git,unity,cloudflare,supabase)
 
+![Python, Django, HTML, and CSS](https://skillicons.dev/icons?i=python,django,html,css)
+
 ## My projects:
 
 | Personal | Hackathons | Games |
 | :---: | :---: | :---: |
-| [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | [Quiz Companion](https://github.com/Pavi21P/study-companion) | [Coin Catchers](https://github.com/Pavi21P/coin-catchers) |
+| [RefIt](https://github.com/Pavi21P/RefIt) | [Quiz Companion](https://github.com/Pavi21P/study-companion) | [Coin Catchers](https://github.com/Pavi21P/coin-catchers) |
+| [LumaCaption](https://github.com/Pavi21P/lumacaption) | | |
+| [UHD Student Extension](https://github.com/Pavi21P/uhd-student-extension) *(in development)* | | |
+| [Personal Homepage (CS4300)](https://github.com/Pavi21P/personal-homepage) | | |
+| [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | | |
 | [UHD ACM Discord Bot](https://github.com/Pavi21P/UHD-ACM-Discord-Bot) | | |
 
 #### Check out my LinkedIn:
