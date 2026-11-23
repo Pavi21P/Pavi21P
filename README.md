@@ -25,7 +25,7 @@
 
 ## My koi
 
-<img src="koi/koi.gif" width="512" alt="Pixel-art koi drawn from my GitHub activity" />
+<img src="koi/koi.gif" width="256" alt="Pixel-art koi drawn from my GitHub activity" />
 
 <sub>Drawn nightly from my GitHub activity by [git-koi](https://github.com/yalongwastaken/git-koi).</sub>
 
