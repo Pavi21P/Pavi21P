@@ -1,19 +1,7 @@
-<img src="koi/koi.gif" width="384" align="right" alt="Pixel-art koi" />
-
-# Hi, I'm Pavi <img src="https://raw.githubusercontent.com/czhu1217/czhu1217/main/wave.gif" width="30" alt="Waving hand" />
-
-## About me
-
-- Student at the University of Houston-Downtown (UHD).
-- I like to make fun apps and apps that I think are beneficial to society.
-
-## Languages and Tools
-
-![JavaScript, TypeScript, C#, React, and Node.js](https://skillicons.dev/icons?i=js,ts,cs,react,nodejs)
-
-![Git, Unity, Cloudflare, and Supabase](https://skillicons.dev/icons?i=git,unity,cloudflare,supabase)
-
-![Python, Django, HTML, and CSS](https://skillicons.dev/icons?i=python,django,html,css)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="koi/intro-dark.svg" />
+  <img src="koi/intro-light.svg" width="100%" alt="Hi, I am Pavi. About me: Student at the University of Houston-Downtown (UHD). I like to make fun apps and apps that I think are beneficial to society. Languages and tools: JavaScript, TypeScript, C#, React, Node.js, Git, Unity, Cloudflare, Supabase, Python, Django, HTML, and CSS." />
+</picture>
 
 ## My projects:
 

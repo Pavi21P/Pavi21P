@@ -1,5 +1,3 @@
-# git-koi: draws a pixel-art koi from your public GitHub activity, nightly.
-# https://github.com/yalongwastaken/git-koi
 name: Koi
 
 on:
@@ -8,7 +6,10 @@ on:
     - cron: "20 0 * * *"
   workflow_dispatch:
   push:
-    paths: [.github/workflows/koi.yml]
+    paths:
+      - .github/workflows/koi.yml
+      - scripts/koi-swim.js
+      - assets/**
 
 permissions:
   contents: write
@@ -24,10 +25,15 @@ jobs:
         with:
           body: white
           output-dir: koi
+      # Puts the day's koi on a figure-8 over the intro (koi/intro-light.svg, koi/intro-dark.svg).
+      - name: Draw the koi swimming over the intro
+        run: |
+          npm install --no-save --no-package-lock --ignore-scripts omggif@1.0.10 pngjs@7.0.0
+          node scripts/koi-swim.js koi/koi.gif koi
       - name: Commit the koi if it changed
         shell: bash
         run: |
-          git add koi/koi.gif
+          git add koi/koi.gif koi/intro-light.svg koi/intro-dark.svg
           if git diff --cached --quiet; then
             echo "The koi is unchanged; nothing to commit."
             exit 0
