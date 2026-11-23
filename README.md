@@ -1,4 +1,4 @@
-<img src="koi/koi.gif" width="256" align="right" alt="Pixel-art koi" />
+<img src="koi/koi.gif" width="384" align="right" alt="Pixel-art koi" />
 
 # Hi, I'm Pavi <img src="https://raw.githubusercontent.com/czhu1217/czhu1217/main/wave.gif" width="30" alt="Waving hand" />
 
