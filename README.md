@@ -1,3 +1,5 @@
+<img src="koi/koi.gif" width="256" align="right" alt="Pixel-art koi" />
+
 # Hi, I'm Pavi <img src="https://raw.githubusercontent.com/czhu1217/czhu1217/main/wave.gif" width="30" alt="Waving hand" />
 
 ## About me
@@ -22,12 +24,6 @@
 | [Personal Homepage (CS4300)](https://github.com/Pavi21P/personal-homepage) | | |
 | [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | | |
 | [UHD ACM Discord Bot](https://github.com/Pavi21P/UHD-ACM-Discord-Bot) | | |
-
-## My koi
-
-<img src="koi/koi.gif" width="256" alt="Pixel-art koi drawn from my GitHub activity" />
-
-<sub>Drawn nightly from my GitHub activity by [git-koi](https://github.com/yalongwastaken/git-koi).</sub>
 
 #### Check out my LinkedIn:
 
