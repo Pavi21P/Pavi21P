@@ -23,6 +23,12 @@
 | [UHD Course Planner](https://github.com/Pavi21P/uhd-course-planner) | | |
 | [UHD ACM Discord Bot](https://github.com/Pavi21P/UHD-ACM-Discord-Bot) | | |
 
+## My koi
+
+<img src="koi/koi.gif" width="100%" alt="Pixel-art koi drawn from my GitHub activity" />
+
+<sub>Drawn nightly from my GitHub activity by [git-koi](https://github.com/yalongwastaken/git-koi).</sub>
+
 #### Check out my LinkedIn:
 
 [Pavitra Patil](https://www.linkedin.com/in/pavitra-patil-5a18712aa/)
